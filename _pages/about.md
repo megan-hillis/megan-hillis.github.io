@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ## Research
 How does learning shape our brains? My research is focused on how tools like fMRI can be used to explore how we learn and understand new languages, new concepts, and new skills. My current project follows a group of hearing adults beginning to study American Sign Language (ASL), and investigates multivariate neural patterns that track not only semantic information from the lessons they have learned, but individual differences in how well students recall that information.
 
