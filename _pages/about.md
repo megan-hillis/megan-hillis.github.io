@@ -14,4 +14,5 @@ Outside of the lab, I enjoy tabletop games and exploring the beautiful mountains
 
 
 ∘∘∘
+#
 This website is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose.
