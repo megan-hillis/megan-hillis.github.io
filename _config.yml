@@ -22,7 +22,7 @@ repository               : "megan-hillis/megan-hillis.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/slack_pfp_f_small.png"
+  avatar           : "slack_pfp_f_small.png"
   name             : "Megan E. Hillis, Ph.D."
   pronouns         : "she/her"  
   bio              : "Postdoctoral Researcher, Cognitive Neuroscience"
