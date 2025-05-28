@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Megan E. Hillis"
+title                    : "Megan E. Hillis, Ph.D."
 title_separator          : "-"
 name                     : #
 description              : &description "Postdoctoral Researcher in Cognitive Neuroscience"
@@ -25,7 +25,7 @@ author:
   avatar           : "slack_pfp_f_small.png"
   name             : "Megan E. Hillis"
   pronouns         : "she/her"  
-  bio              : "Ph.D., Cognitive Neuroscience"
+  bio              : "Ph.D. in Cognitive Neuroscience"
   location         : #
   employer         : "Cognitive Science @ Dartmouth"
   uri              : # URL
