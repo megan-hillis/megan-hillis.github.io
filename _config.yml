@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Megan Hillis"
+title                    : "Megan E. Hillis"
 title_separator          : "-"
 name                     : #
 description              : &description "Postdoctoral Researcher in Cognitive Neuroscience"
@@ -23,9 +23,9 @@ repository               : "megan-hillis/megan-hillis.github.io"
 author:
   # Biographic information
   avatar           : "slack_pfp_f_small.png"
-  name             : "Megan E. Hillis, Ph.D."
+  name             : "Megan E. Hillis"
   pronouns         : "she/her"  
-  bio              : "Postdoctoral Researcher, Cognitive Neuroscience"
+  bio              : "Ph.D., Cognitive Neuroscience"
   location         : #
   employer         : "Cognitive Science @ Dartmouth"
   uri              : # URL
@@ -81,7 +81,7 @@ publication_category:
   preprints:
     title: 'Preprints'
   published:
-    title: 'Published'    
+    title: 'Publications'    
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
