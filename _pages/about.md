@@ -11,7 +11,7 @@ How does learning shape our brains? My research uses tools like fMRI to explore 
 I have also collaborated with researchers across many departments and disciplines to apply these methods in different domains (STEM concept learning, reading music notation, dance), and sensing modalities (e.g. mobile biosensing including EEG, EDA, video).
 
 ## About
-I completed my Ph.D. in Cognitive Neuroscience at Dartmouth College in 2025. Before that, I received an M.S. in Psychological and Brain Sciences at Dartmouth, and a B.A. in Psychology from SUNY Geneseo.
+I completed my Ph.D. in Cognitive Neuroscience at Dartmouth College in 2025. Before that, I received an M.S. in Psychological and Brain Sciences from Dartmouth and a B.A. in Psychology from SUNY Geneseo.
 I first got curious about how brains acquire and scaffold new information while I was working as a STEM program specialist for the Girl Scouts of Northeastern New York!
 Outside of the lab, I enjoy tabletop games and exploring the beautiful mountains of New Hampshire.
 
