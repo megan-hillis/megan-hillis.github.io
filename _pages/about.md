@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 ## Research
-How does learning shape our brains? My research uses tools like fMRI to explore how we learn and understand new languages, new concepts, and new skills. My dissertation work focused on multivariate neural patterns associated with semantic information in American Sign Language (ASL) that emerge in novices learners over the first hours to weeks of signing. Even with such limited training, we can detect patterns that track not only semantic information from the ASL lessons, but individual differences in how well students can recall that information.
+How does learning shape our brains? My research uses tools like fMRI to explore how we learn and understand new languages, new concepts, and new skills. My dissertation work focused on multivariate neural patterns associated with semantic information in American Sign Language (ASL) that emerge in novices learners over their first few lessons. Even at this early stage in the learning trajectory, we can detect patterns that track not only semantic information from the ASL content, but individual differences in how well students can understand that content.
 
 I have also collaborated with researchers across many departments and disciplines to apply these methods in different domains (STEM concept learning, reading music notation, dance), and sensing modalities (e.g. mobile biosensing including EEG, EDA, video).
 
