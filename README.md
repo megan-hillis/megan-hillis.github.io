@@ -5,10 +5,9 @@ How does learning shape our brains? My research is focused on how tools like fMR
 I have also collaborated with researchers across many departments and disciplines to apply these methods in different domains (STEM concept learning, reading music notation, dance), and sensing modalities (e.g. mobile biosensing including EEG, EDA, video).
 
 ## About
-I completed my Ph.D. in Cognitive Neuroscience at Dartmouth College in 2025. Before that, I completed my MS in Psychological and Brain Sciences at Dartmouth, and a BA in Psychology at SUNY Geneseo.
-I got curious about how brains acquire and scaffold new information while I was working as a STEM program specialist for the Girl Scouts of Northeastern New York!
+I completed my Ph.D. in Cognitive Neuroscience at Dartmouth College in 2025. Before that, I completed an M.S. in Psychological and Brain Sciences at Dartmouth, and a B.A. in Psychology at SUNY Geneseo.
+I first got curious about how brains acquire and scaffold new information while I was working as a STEM program specialist for the Girl Scouts of Northeastern New York!
 Outside of the lab, I enjoy tabletop games and exploring the beautiful mountains of New Hampshire.
 
 ### I am seeking opportunities for postdoctoral research, with an ideal start date in early 2026! 
 [Google Scholar](https://scholar.google.com/citations?user=QCNApjcAAAAJ&hl=en) ∘ [LinkedIn](https://www.linkedin.com/in/megan-hillis-56bb56128/) ∘ [Email](mailto:meg.hillis12@gmail.com)
-
