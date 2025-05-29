@@ -15,5 +15,5 @@ I completed my Ph.D. in Cognitive Neuroscience at Dartmouth College in 2025. Bef
 I first got curious about how brains acquire and scaffold new information while I was working as a STEM program specialist for the Girl Scouts of Northeastern New York!
 Outside of the lab, I enjoy tabletop games and exploring the beautiful mountains of New Hampshire.
 
-### I am looking for opportunities for postdoctoral research, with an ideal start date in early 2026! Please feel welcome to reach out to me:
+### I am looking for opportunities for postdoctoral research, start date flexible but ideally in early 2026! Please feel free to reach out to me:
 [Email](mailto:meg.hillis12@gmail.com)  ∘  [Google Scholar](https://scholar.google.com/citations?user=QCNApjcAAAAJ&hl=en)  ∘  [LinkedIn](https://www.linkedin.com/in/megan-hillis-56bb56128/)
