@@ -1,11 +1,11 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+layout: archive
+title: "Selected Publications"
+permalink: /publications_md/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
+
+{% include base_path %}
 
 ## Locations of key files/directories
 
