@@ -4,15 +4,14 @@ title: "Selected Posters"
 permalink: /talks/
 author_profile: true
 ---
-
-<img src="https://github.com/megan-hillis/megan-hillis.github.io/blob/f534526cc3b6de53b0c4f0c6cd861593eddf8c69/images/Hillis_CNS_Poster_2025-1.png" align="left" width="450" height="350"/> \
+![CNS 2025 Poster](/images/Hillis_CNS_Poster_2025-1.png)
 **Neural patterns reflect quiz performance in novice sign language learners.** \
 **Megan E. Hillis** & David J. M. Kraemer \
 Cognitive Neuroscience Society 2025 \
 Boston, MA, USA \
 <br clear="left"/>
 
-<img src="https://github.com/megan-hillis/megan-hillis.github.io/blob/f534526cc3b6de53b0c4f0c6cd861593eddf8c69/images/Hillis_IMBES_Poster_2024._portraitpdf-1-1.png" align="left" width="300" height="400"/> \
+<img src="https://github.com/megan-hillis/megan-hillis.github.io/blob/master/images/Hillis_IMBES_Poster_2024._portraitpdf-1-1.png" align="left" width="300" height="400"/> \
 **Using biosignals to predict cognitive load in an adaptive learning task.** \
 **Megan E. Hillis**, Qijia Shao, Yeongji Lee, Jules Brooks Blanchet, Xia Zhou, Devin Balkcom, & David J. M. Kraemer \
 International Mind, Brain, and Education Society (IMBES) 2024 \
