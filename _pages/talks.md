@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 <img src="/images/Hillis_CNS_Poster_2025.png" align="left" width="450" height="350"/> \
-<img src="/images/whitespace.png" align="left" width="30" height="350"/> \
 **Neural patterns reflect quiz performance in novice sign language learners.** \
 Megan E. Hillis & David J. M. Kraemer \
 Cognitive Neuroscience Society 2025 \
@@ -14,7 +13,6 @@ Boston, MA, USA \
 <br clear="left"/>
 
 <img src="/images/Hillis_CNS_Poster_2023.png" align="left" width="450" height="350"/> \
-<img src="/images/whitespace.png" align="left" width="30" height="350"/> \
 **Decoding knowledge of newly-learned language from neural representations of semantic meaning.** \
 Megan E. Hillis, Brianna Aubrey. Qijia Shao, Jules Brooks Blanchet, Xia Zhou, Devin Balkcom, & David J. M. Kraemer \
 Cognitive Neuroscience Society 2023 \
@@ -24,7 +22,6 @@ San Francisco, CA, USA \
 
 
 <img src="/images/Hillis_IMBES_Poster_2024._portraitpdf-1-1.png" align="left" width="300" height="400"/> \
-<img src="/images/whitespace.png" align="left" width="10" height="350"/> \
 **Using biosignals to predict cognitive load in an adaptive learning task.** \
 Megan E. Hillis, Qijia Shao, Yeongji Lee, Jules Brooks Blanchet, Xia Zhou, Devin Balkcom, & David J. M. Kraemer \
 International Mind, Brain, and Education Society (IMBES) 2024 \
