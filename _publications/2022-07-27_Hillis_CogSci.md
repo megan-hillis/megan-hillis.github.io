@@ -4,7 +4,7 @@ collection: publications
 category: published
 permalink: /publication/2022_Hillis_CogSci
 excerpt: #
-date: 2022
+date: 2022-07-27
 venue: 'Proceedings of the Annual Meeting of the Cognitive Science Society'
 slidesurl: #
 paperurl: 'https://escholarship.org/uc/item/4bw8874x'
