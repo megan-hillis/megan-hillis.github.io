@@ -28,4 +28,4 @@ International Mind, Brain, and Education Society (IMBES) 2024 \
 Leuven, Belgium \
 <br clear="left"/>
 
-### For a full list of conference presentations, please see my CV. I'm always happy to share posters not linked here over email!
+#### For posters not included here, I'm always happy to share over email!
