@@ -30,7 +30,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://github.com/megan-hillis/megan-hillis.github.io/blob/82b9e6962e3d58a30494f82d56106a101840bcc7/files/Hillis%20CV%202025.pdf
     
   # - title: "CV"
   #   url: /cv-json/
