@@ -17,7 +17,7 @@ Boston, MA, USA \
 Megan E. Hillis, Brianna Aubrey. Qijia Shao, Jules Brooks Blanchet, Xia Zhou, Devin Balkcom, & David J. M. Kraemer \
 Cognitive Neuroscience Society 2023 \
 San Francisco, CA, USA \
-[DATA BLITZ SLIDES](https://github.com/megan-hillis/megan-hillis.github.io/blob/f534526cc3b6de53b0c4f0c6cd861593eddf8c69/files/HILLIS%20Session%202%20Data%20Blitz%20Slides.pdf)
+[DATA BLITZ SLIDES](https://megan-hillis.github.io/files/HILLIS%20Session%202%20Data%20Blitz%20Slides.pdf)
 <br clear="left"/>
 
 
