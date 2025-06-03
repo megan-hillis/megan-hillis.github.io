@@ -25,6 +25,6 @@ Fall 2025 - MWF 10 \
 
 
 ## Teaching Apprenticeship
-- Spring 2022 - PSYC 60 Principles of Human Brain Mapping with fMRI (Lab Instructor)
-- Fall 2021 - PSYC 6 Introduction to Neuroscience
-- Summer 2020 & 2021 - PSYC 11 Laboratory in Psychological Science (Lab Instructor)
+- Spring 2022 - PSYC 60 Principles of Human Brain Mapping with fMRI (TA, Lab Instructor)
+- Fall 2021 - PSYC 6 Introduction to Neuroscience (TA, Guest Lecturer)
+- Summer 2020 & 2021 - PSYC 11 Laboratory in Psychological Science (TA, Guest Lecturer, Lab Instructor)
