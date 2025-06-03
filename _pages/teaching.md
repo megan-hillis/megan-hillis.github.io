@@ -7,7 +7,7 @@ author_profile: true
 
 ## Courses
 
-### COGS 50.08 Modeling the Mind and Behavior 
+### COGS 50.08 Modeling Mind and Behavior 
 Fall 2025 - MWF 10 \
 **Course Description:** You will actively engage in the scientific process of hypothesis testing that combines the disciplines of neuroscience, behavioral science, statistics/machine learning to understand the mechanisms of mind and behavior. The course will review computational approaches to modeling the mind by walking through the steps of hypothesis formation, experimental design, statistical analysis and theory development requiring skills in research methods, programming and scientific writing. 
 
