@@ -1,2 +1,2 @@
-Megan E. Hillis, Ph.D. \
+Megan E. Hillis \
 Repo for personal github pages site
