@@ -1,10 +1,11 @@
 ---
 permalink: /
-title: "I am looking for opportunities for postdoctoral research, start date flexible but ideally in early 2026! Please feel free to reach out to me:"
+title: ""
 redirect_from: 
   - /about/
   - /about.html
 ---
+## I am looking for opportunities for postdoctoral research, start date flexible but ideally in early 2026! Please feel free to reach out to me:
 [Email](mailto:meg.hillis12@gmail.com)  ∘  [Google Scholar](https://scholar.google.com/citations?user=QCNApjcAAAAJ&hl=en)  ∘  [LinkedIn](https://www.linkedin.com/in/megan-hillis-56bb56128/)
 
 ## Research
