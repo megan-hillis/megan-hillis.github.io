@@ -24,6 +24,10 @@ Under Review \
 
 ## Published
 
+[**Neural patterns reflect semantic representation in novice sign language learners (Dissertation)**](https://digitalcommons.dartmouth.edu/dissertations/345/) \
+**Hillis, M. E.** \
+2025 \
+\
 [**Enhancing the Educational Potential of Online Movement Videos: System Development and Empirical Studies with TikTok Dance Challenges**](https://dl.acm.org/doi/pdf/10.1145/3706598.3714062) \
 Blanchet, J. B., **Hillis, M. E.**, Lee, Y., Shao, Q., Zhou, X., Balkcom, D., & Kraemer, D. J. M. \
 Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (2025) \
