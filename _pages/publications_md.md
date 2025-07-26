@@ -16,7 +16,7 @@ author_profile: true
 **Hillis, M. E.** & Kraemer, D. J. M. \
 bioRxiv (2025)
 
-**<ins>First-class learning: Neural patterns reflect students’ conceptual grasp following an introductory STEM lesson</ins>** \
+[**Neural patterns reflect conceptual grasp of novice students following first class learning in physics**](https://doi.org/10.21203/rs.3.rs-6992513/v1) \
 Cetron, J.S.\*, **Hillis, M.E.**\*, Diamond, S. G., May, V. V., & Kraemer, D. J. M. \
 Under Review \
 	\*co-authors contributed equally to this work
