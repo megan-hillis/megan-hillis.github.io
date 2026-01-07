@@ -18,7 +18,7 @@ Fall 2025 - MWF 10 \
 **Talk title:** Initial signs of learning: Decoding newly learned vocabulary from neural patterns in novice sign language learners \
 \
 **Fall 2022 - COGS 80 Major Seminar in Cognitive Science** \
-**Talk title:** Characterizing changes in knowledge and learning with multivariate fMRI  \
+**Talk title:** Characterizing changes in knowledge and learning with multivariate fMRI 
 
 
 ## Teaching Apprenticeship
