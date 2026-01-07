@@ -12,15 +12,14 @@ author_profile: true
 
 ## Preprints
 
+[**Neural patterns reflect conceptual grasp of novice students following first class learning in physics**](https://doi.org/10.21203/rs.3.rs-6992513/v1) \
+**Hillis, M.E.**\*,Cetron, J.S.\*, Diamond, S. G., May, V. V., & Kraemer, D. J. M. \
+Accepted at npj Science of Learning \
+	\*co-authors contributed equally to this work and are listed alphabetically by the journal
+
 [**Initial signs of learning: Decoding newly-learned vocabulary from neural patterns in novice sign language learners**](https://www.biorxiv.org/content/biorxiv/early/2025/04/17/2025.04.11.648265.full.pdf) \
 **Hillis, M. E.** & Kraemer, D. J. M. \
-bioRxiv (2025)
-
-[**Neural patterns reflect conceptual grasp of novice students following first class learning in physics**](https://doi.org/10.21203/rs.3.rs-6992513/v1) \
-Cetron, J.S.\*, **Hillis, M.E.**\*, Diamond, S. G., May, V. V., & Kraemer, D. J. M. \
-Under Review \
-	\*co-authors contributed equally to this work
-
+bioRxiv (under review)
 
 ## Published
 
