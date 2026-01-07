@@ -13,7 +13,7 @@ author_profile: true
 ## Preprints
 
 [**Neural patterns reflect conceptual grasp of novice students following first class learning in physics**](https://doi.org/10.21203/rs.3.rs-6992513/v1) \
-**Hillis, M.E.**\*,Cetron, J.S.\*, Diamond, S. G., May, V. V., & Kraemer, D. J. M. \
+**Hillis, M. E.**\*, Cetron, J.S.\*, Diamond, S. G., May, V. V., & Kraemer, D. J. M. \
 Accepted at npj Science of Learning \
 	\*co-authors contributed equally to this work and are listed alphabetically by the journal
 
