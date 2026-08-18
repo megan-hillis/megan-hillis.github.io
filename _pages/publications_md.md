@@ -12,16 +12,20 @@ author_profile: true
 
 ## Preprints
 
-[**Neural patterns reflect conceptual grasp of novice students following first class learning in physics**](https://doi.org/10.21203/rs.3.rs-6992513/v1) \
-**Hillis, M. E.**\*, Cetron, J.S.\*, Diamond, S. G., May, V. V., & Kraemer, D. J. M. \
-Accepted at npj Science of Learning \
-	\*co-authors contributed equally to this work and are listed alphabetically by the journal
-
 [**Initial signs of learning: Decoding newly-learned vocabulary from neural patterns in novice sign language learners**](https://www.biorxiv.org/content/biorxiv/early/2025/04/17/2025.04.11.648265.full.pdf) \
 **Hillis, M. E.** & Kraemer, D. J. M. \
 bioRxiv (under review)
 
 ## Published
+
+[**From seeing to understanding: Novice sign language learners shift focus from perceptual to semantic information for newly learned signs**](https://escholarship.org/content/qt2vx527s2/qt2vx527s2.pdf) \
+**Hillis, M. E.** & Kraemer, D. J. M. \
+Proceedings of the Annual Meeting of the Cognitive Science Society (2026)
+
+[**Neural patterns reflect conceptual grasp of novice students following first class learning in physics**](https://www.nature.com/articles/s41539-025-00394-3) \
+**Hillis, M. E.**\*, Cetron, J.S.\*, Diamond, S. G., May, V. V., & Kraemer, D. J. M. \
+npj Science of Learning (2026) \
+	\*co-authors contributed equally to this work and are listed alphabetically by the journal
 
 [**Neural patterns reflect semantic representation in novice sign language learners (Dissertation)**](https://digitalcommons.dartmouth.edu/dissertations/345/) \
 **Hillis, M. E.** \
