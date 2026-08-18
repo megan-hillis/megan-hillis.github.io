@@ -7,17 +7,20 @@ author_profile: true
 
 ## Courses
 
-### COGS 50.08 Modeling Mind and Behavior 
+### COGS 50.08 Modeling Mind and Behavior, Dartmouth College 
 Fall 2025 - MWF 10 \
 **Course Description:** This course will review computational approaches to modeling the mind by walking through the steps of hypothesis formation, experimental design, statistical analysis and theory development. We will cover major contributions of cognitive modeling approaches to the field of neuroscience combined with hands-on learning in research methods, programming and scientific writing through analyzing real-world data to understand the mechanisms of mind and behavior.
 
 
 ## Guest Lectures
 
-**Spring 2025 - COGS 80 Major Seminar in Cognitive Science** \
+**Summer 2026 - Learning and Brain Development Lab Trainee Series, Northeastern University** \
+**Talk title:** From seeing to understanding: Novice sign language learners shift focus from semantic to perceptual information \
+\
+**Spring 2025 - COGS 80 Major Seminar in Cognitive Science, Dartmouth College** \
 **Talk title:** Initial signs of learning: Decoding newly learned vocabulary from neural patterns in novice sign language learners \
 \
-**Fall 2022 - COGS 80 Major Seminar in Cognitive Science** \
+**Fall 2022 - COGS 80 Major Seminar in Cognitive Science, Dartmouth College** \
 **Talk title:** Characterizing changes in knowledge and learning with multivariate fMRI 
 
 
