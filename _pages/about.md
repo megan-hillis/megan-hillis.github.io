@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### I am looking for opportunities for postdoctoral research in 2026, start date flexible! Please feel free to reach out to me:
+### I am looking for opportunities for postdoctoral research, start date flexible! Please feel free to reach out to me:
 [Email](mailto:meg.hillis12@gmail.com)  ∘  [Google Scholar](https://scholar.google.com/citations?user=QCNApjcAAAAJ&hl=en)  ∘  [LinkedIn](https://www.linkedin.com/in/megan-hillis-56bb56128/)
 
 ## Research
@@ -16,4 +16,6 @@ I have also collaborated with researchers across many departments and discipline
 ## About
 I completed my Ph.D. in Cognitive Neuroscience at Dartmouth College in 2025. Before that, I received an M.S. in Psychological and Brain Sciences from Dartmouth and a B.A. in Psychology from SUNY Geneseo.
 I first got curious about how brains acquire and scaffold new information while I was working as a STEM program specialist for the Girl Scouts of Northeastern New York!
-Outside of the lab, I enjoy tabletop games and exploring the beautiful mountains of New Hampshire.
+Outside of the lab, I enjoy tabletop games and exploring the beautiful mountains of New England.
+
+<img src="/images/20251018_IMG-20251018-WA0122.jpg" align="center" width="450" height="350"/>
