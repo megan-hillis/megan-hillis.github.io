@@ -5,6 +5,20 @@ permalink: /talks/
 author_profile: true
 ---
 
+<img src="/images/Hillis_CogSci_2026_poster.png" align="left" width="450" height="350"/> \
+**From seeing to understanding: Novice sign language learners shift focus from perceptual to semantic information for newly learned signs.** \
+Megan E. Hillis & David J. M. Kraemer \
+Cognitive Science Society 2026 \
+Rio de Janeiro, Brazil (Hybrid Presentation) \
+<br clear="left"/>
+
+<img src="/images/Hillis_CNS_Poster_2026.png" align="left" width="450" height="350"/> \
+**Reading the signs: Encoding models generalize from English to ASL in novice signers.** \
+Megan E. Hillis & David J. M. Kraemer \
+Cognitive Neuroscience Society 2026 \
+Vancouver, BC, CAN \
+<br clear="left"/>
+
 <img src="/images/Hillis_CNS_Poster_2025.png" align="left" width="450" height="350"/> \
 **Neural patterns reflect quiz performance in novice sign language learners.** \
 Megan E. Hillis & David J. M. Kraemer \
